@@ -1,0 +1,2 @@
+object NoteService : Crud<Note>() {
+}
